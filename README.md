@@ -49,3 +49,7 @@ npm run start
 ### Docker Compose
 
 See [docker-compose.yml](./docker-compose.yml)
+
+### Ansible Role to install and run with Podman and Systemd
+
+See [markstos.rss-lemmy-bot role](https://github.com/markstos/ansible-role-rss-lemmy-bot)
